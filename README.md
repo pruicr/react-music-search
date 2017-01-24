@@ -4,7 +4,7 @@ An app to search for music using the Spotify Web API written in React and bootst
 
 ## Install locally
 
-To install locally, clone the repo and use npm to install dependencies
+To run locally, clone the repo and use npm to install dependencies
 
 ```sh
 $ git clone https://github.com/pruicr/react-music-search.git
